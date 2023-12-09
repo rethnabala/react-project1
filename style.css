@@ -1,0 +1,53 @@
+
+.sidebar{
+    background:#494ca2;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+}
+.flash{
+    margin-top: 25px;
+    color: white;
+}
+.menu{
+    width: 100%;
+    margin-top: 50px;
+}
+.menu .item{
+    position: relative;
+    cursor: pointer;
+}
+.menu .item a{
+    color:#fff;
+    font-size: 16px;
+    text-decoration: none;
+    display:block;
+    padding:5px 30px;
+    line-height: 60px;
+}
+.item i{
+margin-right: 20px;
+}
+.subscribe{
+    padding-top: 30px;
+    color:#fff;
+}
+.copy{
+    padding-top: 30px;
+    color:#fff;
+}
+#email{
+    border-radius: 10px;
+    border-style:none;
+}
+.sidebar {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+}
+.content {
+    padding: 20px;
+}
+.hidden {
+    display: none;
+}
